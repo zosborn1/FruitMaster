@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Unity.Settings.Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Unity.Settings.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Unity.Settings.Editor.csproj",
+        "projectName": "Unity.Settings.Editor",
+        "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Unity.Settings.Editor.csproj",
+        "packagesPath": "/Users/parzival/.nuget/packages/",
+        "outputPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Temp/obj/Debug/Unity.Settings.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/parzival/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.UI.csproj"
+              },
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/Users/parzival/.nuget/packages/",
+        "outputPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/parzival/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.UI.csproj",
+        "packagesPath": "/Users/parzival/.nuget/packages/",
+        "outputPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Temp/obj/Debug/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/parzival/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/Users/parzival/.nuget/packages/",
+        "outputPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/parzival/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/UnityEngine.UI.csproj",
+        "packagesPath": "/Users/parzival/.nuget/packages/",
+        "outputPath": "/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Temp/obj/Debug/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/parzival/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
