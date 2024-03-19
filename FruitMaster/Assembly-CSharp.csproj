@@ -924,6 +924,7 @@
   <ItemGroup>
     <ProjectReference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Management.csproj" />
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Editor.csproj" />
     <ProjectReference Include="Unity.XR.MockHMD.csproj" />
@@ -960,6 +961,7 @@
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" />
     <ProjectReference Include="Unity.XR.Management.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj" />
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
     <ProjectReference Include="Unity.Mathematics.csproj" />
     <ProjectReference Include="Unity.XR.CoreUtils.Editor.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.csproj" />
