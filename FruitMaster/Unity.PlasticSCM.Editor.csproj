@@ -219,8 +219,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/GetRelativePath.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/Avatar/AvatarImages.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/UIElements/UIElementsExtensions.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Changesets/ChangesetsListHeaderState.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Locks/LocksListHeaderState.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Changesets/ChangesetsListHeaderState.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/PendingChanges/Changelists/MoveToChangelistMenuBuilder.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Tool/ToolConstants.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/EditorDispatcher.cs" />
@@ -318,8 +318,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/OverlayRect.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Inspector/InspectorAssetSelection.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/AssetsUtils/SaveAssets.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/UIElements/LoadingSpinner.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Locks/LocksListViewItem.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/UIElements/LoadingSpinner.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Help/HelpData.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/UI/ShowWindow.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Views/Welcome/DownloadAndInstallOperation.cs" />
@@ -742,6 +742,10 @@
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
       <Private>False</Private>
@@ -752,6 +756,18 @@
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@2.3.1/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.GradleProject">
+      <HintPath>/Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/AndroidPlayer/Unity.Android.GradleProject.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="mscorlib">

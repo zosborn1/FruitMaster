@@ -1,0 +1,354 @@
+Unity Editor version:    2022.3.18f1 (d29bea25151d)
+Branch:                  2022.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.4 (Build 23E214)
+Darwin version:          23.4.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59664
+Successfully changed project path to: /Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster
+/Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8196963008] Host "[IP] 10.141.223.135 [Port] 0 [Flags] 2 [Guid] 631113204 [EditorId] 631113204 [Version] 1048832 [Id] OSXEditor(0,Zachs-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8196963008] Host "[IP] 10.141.223.135 [Port] 0 [Flags] 2 [Guid] 631113204 [EditorId] 631113204 [Version] 1048832 [Id] OSXEditor(0,Zachs-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 4.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.18f1 (d29bea25151d)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/parzival/Desktop/VRClass/FruitMaster/FruitMaster/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 Pro (high power)
+Metal devices available: 1
+0: Apple M1 Pro (high power)
+Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56346
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.18f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001727 seconds.
+- Loaded All Assemblies, in  0.218 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 86 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.288 seconds
+Domain Reload Profiling: 507ms
+	BeginReloadAssembly (47ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (107ms)
+		LoadAssemblies (47ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (105ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (93ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (289ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (251ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (160ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (62ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.403 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.360 seconds
+Domain Reload Profiling: 763ms
+	BeginReloadAssembly (78ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (268ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (124ms)
+			TypeCache.Refresh (113ms)
+				TypeCache.ScanAssembly (98ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (360ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (247ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (183ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3103 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (51.4 KB). Loaded Objects now: 3567.
+Memory consumption went from 131.7 MB to 131.7 MB.
+Total: 2.377833 ms (FindLiveObjects: 0.094875 ms CreateObjectMapping: 0.036917 ms MarkObjects: 2.164292 ms  DeleteObjects: 0.080834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 119055.180665 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe1H_Basic.prefab
+  artifactKey: Guid(a9de5a98f016a334c9a1113e07b1a12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe1H_Basic.prefab using Guid(a9de5a98f016a334c9a1113e07b1a12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdb8f5941aa27256c265c5951e5e3c0') in 0.468469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Shield_Medium.prefab
+  artifactKey: Guid(e9ea46be99de08f49b1d7ea40fa98847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Shield_Medium.prefab using Guid(e9ea46be99de08f49b1d7ea40fa98847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b349f8e471391b65700afe07187238b9') in 0.001050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear2H_Medium.prefab
+  artifactKey: Guid(623b347c8f6a87e44abd622ce171e13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear2H_Medium.prefab using Guid(623b347c8f6a87e44abd622ce171e13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe34c2764d1d2196288090b2d9dfa66') in 0.001098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Staff_Medium.prefab
+  artifactKey: Guid(340f8fecb7a9daa4bb72c4d06454e3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Staff_Medium.prefab using Guid(340f8fecb7a9daa4bb72c4d06454e3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5009263c40f0fe89d6cde424475191fa') in 0.000679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Staff_Epic.prefab
+  artifactKey: Guid(3058356566addd04d8ab52928169b5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Staff_Epic.prefab using Guid(3058356566addd04d8ab52928169b5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0321c039bc5b977667be9930282072fb') in 0.000836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Wand_Medium.prefab
+  artifactKey: Guid(a976c1b6e1a7097458bb2765bcb0ab4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Wand_Medium.prefab using Guid(a976c1b6e1a7097458bb2765bcb0ab4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f36e96846366d669a1d657bc32741c') in 0.000692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear2H_Epic.prefab
+  artifactKey: Guid(f35679122b59888499aef7a69b391c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear2H_Epic.prefab using Guid(f35679122b59888499aef7a69b391c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bdff59c8aa327d79ad3c60394f7723') in 0.000712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Epic.prefab
+  artifactKey: Guid(0b87c5c82fdfc6c4686ad668eb24450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Epic.prefab using Guid(0b87c5c82fdfc6c4686ad668eb24450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a48cc018d8d80012b0f555638c7852eb') in 0.000787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Bow_Medium.prefab
+  artifactKey: Guid(238d5f1b77b9e494180383a7f0480c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Bow_Medium.prefab using Guid(238d5f1b77b9e494180383a7f0480c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caa24f2269669d2cfee6b1481e18099e') in 0.000675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear1H_Epic.prefab
+  artifactKey: Guid(c8f328ffdc9cd3646ab8b4c340edbbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear1H_Epic.prefab using Guid(c8f328ffdc9cd3646ab8b4c340edbbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f554a050b413f9a2b9b7bf5d9167daa9') in 0.001250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Basic.prefab
+  artifactKey: Guid(90785c74b47617741aa5d3792af17448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Basic.prefab using Guid(90785c74b47617741aa5d3792af17448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ced8ba79d0ce87969a5f6f00fec0c79') in 0.016654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Medium.prefab
+  artifactKey: Guid(bda0e0a54afa7464ab2ce114082b55d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Medium.prefab using Guid(bda0e0a54afa7464ab2ce114082b55d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e40de65cb1264c217ba4158a7bc7a47') in 0.011696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear1H_Medium.prefab
+  artifactKey: Guid(1a8eaaa38b934ed4dbe357ed598e1318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Spear1H_Medium.prefab using Guid(1a8eaaa38b934ed4dbe357ed598e1318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb42f7869114f22d9148b64e24d945a') in 0.001037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Basic.prefab
+  artifactKey: Guid(85ba34deb1de19f41ae8795fef846895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Basic.prefab using Guid(85ba34deb1de19f41ae8795fef846895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7649b08a55bc475283f90fc97eff9ef9') in 0.000813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Bow_Basic.prefab
+  artifactKey: Guid(6d2456ba08276d340a70ec1065d49e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Bow_Basic.prefab using Guid(6d2456ba08276d340a70ec1065d49e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce65e30e3c7f1d62a278d4c11275bedc') in 0.000773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Medium.prefab
+  artifactKey: Guid(aac5a422caf682d45bb63a88e5b01e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace2H_Medium.prefab using Guid(aac5a422caf682d45bb63a88e5b01e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89440ba80bd64cbfb65a36f5403b9168') in 0.000817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace1H_Epic.prefab
+  artifactKey: Guid(cd129f656ecb0a543aba3aec71bf1158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace1H_Epic.prefab using Guid(cd129f656ecb0a543aba3aec71bf1158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5272d899383007a01f99c030b1fd4164') in 0.000650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Shield_Basic.prefab
+  artifactKey: Guid(a71d1f9b3c3dfdf4f8190625852fd277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Shield_Basic.prefab using Guid(a71d1f9b3c3dfdf4f8190625852fd277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472e6b6d29cea913402ca4ac8fdd1190') in 0.000574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace1H_Basic.prefab
+  artifactKey: Guid(956a1ab0ff6ebf7418125a284024ba00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Mace1H_Basic.prefab using Guid(956a1ab0ff6ebf7418125a284024ba00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642a129ff1278c782e2ecb7300f2a30c') in 0.001564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Epic.prefab
+  artifactKey: Guid(d2a4ffc4311ba5e4c81b0fc76531c362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddOns/Blink/Art/Weapons/LowPoly/FreeRPGWeapons/_PREFABS/Axe2H_Epic.prefab using Guid(d2a4ffc4311ba5e4c81b0fc76531c362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0580a9076e00c047213e4354add9733e') in 0.155766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
