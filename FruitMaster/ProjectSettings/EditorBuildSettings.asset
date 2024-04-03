@@ -12,6 +12,7 @@ EditorBuildSettings:
     path: Assets/FruitMaster.unity
     guid: 916144b1c8ee149998161d82c657c387
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e7b6cf70c80d6634799bd6c8ea8a47ff, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d4b5bf1248f8c47f2845fa3dd94f44a3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fba6072275013e6448e381f83d131b7f, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e60ad326389e9b14e9f7ae2c33703862, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f59d82fd2c57c40199574affeb341bb2, type: 2}
