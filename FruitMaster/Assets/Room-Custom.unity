@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 8a048f69a52957547afe75549c0bfb0d, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -6603,13 +6603,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1281857277}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.2588191, y: 0, z: 0, w: 0.9659258}
-  m_LocalPosition: {x: 0, y: 6, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 6, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 30, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1287474360
 GameObject:
   m_ObjectHideFlags: 0
@@ -7540,7 +7540,7 @@ GameObject:
   - component: {fileID: 1403697937}
   - component: {fileID: 1403697938}
   m_Layer: 0
-  m_Name: Wall
+  m_Name: Environment script
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7574,7 +7574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   range: 60
-  skybox: Wood1
+  skybox: Skybox1
   short_left_edge_prefab: {fileID: 7784231192438042882, guid: 225b8715aca8a574ea05a333832520cf, type: 3}
   tall_left_edge_prefab: {fileID: 5813434946400638391, guid: 1cf237d2496f10a4fb6f66cc39425cb7, type: 3}
   tall_left_connect_prefab: {fileID: 6534918185281349420, guid: 28c7d209a9136cf48a0b01df77ff92da, type: 3}
